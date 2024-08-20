@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import Elysia from 'elysia'
 import { authentication } from '../authentication'
 
